@@ -13,6 +13,7 @@ public class MazeFactory {
 		return _instance != null ? _instance : (_instance = new MazeFactory());
 	}
 	
+	//典型的Factory Method模式的实现方式之一
 	public Maze makeMaze(){
 		return new Maze();
 	}
