@@ -1,4 +1,4 @@
-package maze.builder;
+ package maze.builder;
 
 import maze.Direction;
 import maze.Door;

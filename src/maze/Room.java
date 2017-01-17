@@ -15,7 +15,7 @@ public class Room extends MapSite {
 	}
 
 	@Override
-	void enter() {
+	public void enter() {
 		
 	}
 	

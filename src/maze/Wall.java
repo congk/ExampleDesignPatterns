@@ -3,7 +3,7 @@ package maze;
 public class Wall extends MapSite{
 
 	@Override
-	void enter() {
+	public void enter() {
 		// TODO Auto-generated method stub
 		
 	}

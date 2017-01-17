@@ -15,7 +15,7 @@ public class Door extends MapSite {
 	}
 	
 	@Override
-	void enter() {
+	public void enter() {
 		
 	}
 }
